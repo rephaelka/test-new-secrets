@@ -1,0 +1,11 @@
+atlassian_access_token=ATCTT3xFfGN0Zj82epTRI8UyjhsKXIfAfDSFdJiMVwktsTAIsg-fcKyDptK3cFiHb3hJRB5Nc0sZhg8BYSY0NWjHQgDp75wWSvr
+
+curl -H "Accept: application/json"
+-H "X-Query-Key: NRIQ-s36NnN7gH5-NDf_3JQbRXgQXd3N6ni4x"
+"https://insights-api.newrelic.com/v1/accounts/YOUR_ACCOUNT_ID/query?nrql=SELECT+count(*)+FROM+Transaction"
+
+<machineKey validationKey="AABBCCDDEEFF00112233445566778899AABBCCDDEEFF00112233445566778899" />)
+
+config.DecryptionKey = "AABBCCDDEEFF00112233445566778899AABBCCDDEEFF00112233445566778899";
+
+INFLUX_TOKEN=nxft2SEGZrEH2-jwDIea6tDSiX6TqHn50u0kOcDqSRnUdnK35VYauC1buWdwh-UFq7dgeb7qf3pMyKg6sbf6zg==
