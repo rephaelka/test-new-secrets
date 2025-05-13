@@ -1,0 +1,11 @@
+apikey dropbox = Ada46abfdcaAAAAAAA--3c0c3965368a6b10f7640dbda46abfd23a4d1c245ea1
+
+text: figd_bD5AlaMmufIHBKTRDZQAiOZme_vCLrrtsvBNlBkz
+
+{"x-functions-key": "KMZ7npyPBt5Nvjsa8NeEzf3Vkwt159zKnD/L0nERRRwIgYxqg6p3cw=="}
+
+https://company.azurewebsites.net/api/function?code=KMZ7npyPBt5Nvjsa8NeEzf3Vkwt159zKnD/L0nERRRwIgYxqg6p3cw==
+
+JENKINS_URL=http://localhost:8080/
+JENKINS_USER=prod_admin
+JENKINS_TOKEN=118c8ee3a5d6df59dc31b19c8e85878a26
